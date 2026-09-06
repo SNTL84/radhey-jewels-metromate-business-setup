@@ -1,10 +1,18 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/MetroMate%20Collab-Digital%20Ready-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="MetroMate Collab">
+  <img src="https://img.shields.io/badge/MADS-Metro%20Ad%20Services-FF6D00?style=for-the-badge&logo=googleads&logoColor=white" alt="MADS">
+  <img src="https://img.shields.io/badge/SNTL%2084-Agentic%20AI-FFD600?style=for-the-badge&logo=github&logoColor=black" alt="SNTL 84">
+</p>
+
 # 🌟 Radhey Jewels × MetroMate Collab
 ### Complete WhatsApp • Instagram • Facebook Business Account Setup
 
-**Client:** Radhey Jewels (Imitation Jewellery Brand)  
-**Service Provider:** MetroMate Collab | MADS (Metro Ad Services) | SNTL 84  
-**Location:** Surat, Gujarat, India  
-**Package Value:** ₹12,000 (Complete Setup + 1 Week Execution)
+<p align="center">
+  <strong>Client:</strong> Radhey Jewels (Imitation Jewellery Brand)<br>
+  <strong>Service Provider:</strong> MetroMate Collab | MADS (Metro Ad Services) | SNTL 84<br>
+  <strong>Location:</strong> Surat, Gujarat, India<br>
+  <strong>Package Value:</strong> ₹12,000 (Complete Setup + 1 Week Execution)
+</p>
 
 ---
 
@@ -12,9 +20,9 @@
 
 Radhey Jewels trusted **MetroMate Collab** for end-to-end digital business presence setup across the three most powerful platforms for Indian retail & jewellery businesses:
 
-- **WhatsApp Business**
-- **Instagram Business**
-- **Facebook Business**
+- ✅ **WhatsApp Business**
+- ✅ **Instagram Business**
+- ✅ **Facebook Business**
 
 We delivered a fully synced, conversion-ready ecosystem designed for lead generation, broadcast marketing, online selling, and seamless logistics.
 
@@ -65,12 +73,12 @@ We delivered a fully synced, conversion-ready ecosystem designed for lead genera
 
 ---
 
-## 🏆 Client Testimony Links
+## 🏆 Client Testimony Links (Active)
 
 See the real results and client appreciation:
 
-- **Facebook Post:** [View Testimony](https://www.facebook.com/share/p/18RyxPwABd/)
-- **Instagram Reel:** [Watch on Instagram](https://www.instagram.com/reel/Dc79mOANGLn/?stkn=cnJ2OHFwNTFrcDJp)
+- 📘 **Facebook Post:** [View Testimony →](https://www.facebook.com/share/p/18RyxPwABd/)
+- 📸 **Instagram Reel:** [Watch on Instagram →](https://www.instagram.com/reel/Dc79mOANGLn/?stkn=cnJ2OHFwNTFrcDJp)
 
 ---
 
@@ -81,15 +89,7 @@ See the real results and client appreciation:
 We help businesses get digitally ready and visible with WhatsApp, Instagram and Facebook.
 
 **Ideal for:**
-- Restaurant
-- Retail Outlet
-- Real Estate Project
-- FMCG Brand
-- Service Business
-- Niche Venture
-- Event
-- Local Business
-- Imitation Jewellery & Fashion Brands
+Restaurant • Retail Outlet • Real Estate Project • FMCG Brand • Service Business • Niche Venture • Event • Local Business • Imitation Jewellery & Fashion Brands
 
 ### MADS (Metro Ad Services)
 **Advertising • Marketing • Visibility • Growth**  
@@ -108,27 +108,55 @@ Campaigns designed to turn visibility → enquiries → growth.
 
 ---
 
-## 🔍 Searchable Keywords (For AI Assistants & Clients)
+## 🔍 High-Relevance Topics & Keywords
 
-`WhatsApp Business Setup Surat` • `Instagram Business Account Setup` • `Facebook Business Page Setup` • `Imitation Jewellery Digital Marketing` • `Jewellery Brand Lead Generation` • `WhatsApp Broadcast Service India` • `Payment Link QR Setup for Business` • `MetroMate Collab` • `MADS Metro Ad Services` • `SNTL 84` • `desidevloper.com` • `Performance Marketing Surat` • `Ecommerce Setup WhatsApp Instagram Facebook` • `Offline to Online Business Transition` • `Lowest Price Business Account Setup` • `1 Week Digital Business Setup`
+These topics make the repository discoverable by clients, partners and AI assistants (ChatGPT, Gemini, Grok, DeepSeek, Claude, etc.):
+
+`whatsapp-business-setup` `instagram-business-setup` `facebook-business-setup` `digital-marketing-surat` `imitation-jewellery` `lead-generation` `broadcast-marketing` `payment-link-setup` `qr-code-business` `ecommerce-setup` `offline-to-online` `performance-marketing` `metromate-collab` `mads` `sntl84` `desidevloper` `surat-business` `jewellery-brand-marketing` `whatsapp-catalog` `business-account-setup` `1-week-setup` `lowest-price-digital-setup`
 
 ---
 
 ## 📞 Ready to Make Your Brand Impossible to Miss?
 
 **MetroMate Collab | MADS | SNTL 84**  
+
 📍 450, Green Palladia, Near Rajworld Circle, Surat – 395009  
-📞 9727413309  
-💬 WhatsApp: [wa.me/919727413309](https://wa.me/919727413309)
+📞 [9727413309](tel:9727413309)  
+💬 WhatsApp: [Chat Now](https://wa.me/919727413309)
 
 🌐 [desidevloper.com](https://desidevloper.com)  
-🔗 LinkedIn: [linkedin.com/in/sntl2784](https://linkedin.com/in/sntl2784)  
-💻 GitHub: [github.com/SNTL84](https://github.com/SNTL84)  
-📸 Instagram: [instagram.com/desibiztrade](https://instagram.com/desibiztrade)
+🔗 [LinkedIn — SNTL 84](https://linkedin.com/in/sntl2784)  
+💻 [GitHub — SNTL84](https://github.com/SNTL84)  
+📸 [Instagram — DesiBizTrade](https://instagram.com/desibiztrade)
 
 ---
 
-**ONE GOAL. YOUR SUCCESS.**  
+<p align="center">
+  <strong>ONE GOAL. YOUR SUCCESS.</strong><br>
+  <em>Built with ❤️ by SNTL 84 — Agentic AI Workflow Professional</em><br>
+  Performance Marketing • Fulfillment Automation • Bench Resources • Full-Stack Builds • AI Workflows • Supply Chain BI
+</p>
 
-*Built with ❤️ by SNTL 84 — Agentic AI Workflow Professional*  
-*Performance Marketing • Fulfillment Automation • Bench Resources • Full-Stack Builds • AI Workflows • Supply Chain BI*
+---
+
+### Recommended Repository Topics (Add these in repo settings for maximum reach)
+
+```
+whatsapp-business
+instagram-marketing
+facebook-business
+digital-marketing
+lead-generation
+imitation-jewellery
+surat
+metromate
+mads
+sntl84
+business-setup
+ecommerce
+performance-marketing
+payment-gateway
+logistics
+wholesale
+retail
+case-study
