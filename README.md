@@ -1,18 +1,22 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/MetroMate%20Collab-Digital%20Ready-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="MetroMate Collab">
-  <img src="https://img.shields.io/badge/MADS-Metro%20Ad%20Services-FF6D00?style=for-the-badge&logo=googleads&logoColor=white" alt="MADS">
-  <img src="https://img.shields.io/badge/SNTL%2084-Agentic%20AI-FFD600?style=for-the-badge&logo=github&logoColor=black" alt="SNTL 84">
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/MetroMate%20Collab-Digital%20Ready%20%7C%20Business%20Grow%20Ready-00C853?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="MetroMate Collab" height="40">
+
+<img src="https://img.shields.io/badge/MADS-Metro%20Ad%20Services%20%7C%20We%20Market.%20You%20Grow.-FF6D00?style=for-the-badge&logo=googleads&logoColor=white&labelColor=0D1117" alt="MADS" height="40">
+
+<img src="https://img.shields.io/badge/SNTL%2084-Agentic%20AI%20Workflow%20Professional-FFD600?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="SNTL 84" height="40">
+
+<br><br>
 
 # 🌟 Radhey Jewels × MetroMate Collab
 ### Complete WhatsApp • Instagram • Facebook Business Account Setup
 
-<p align="center">
-  <strong>Client:</strong> Radhey Jewels (Imitation Jewellery Brand)<br>
-  <strong>Service Provider:</strong> MetroMate Collab | MADS (Metro Ad Services) | SNTL 84<br>
-  <strong>Location:</strong> Surat, Gujarat, India<br>
-  <strong>Package Value:</strong> ₹12,000 (Complete Setup + 1 Week Execution)
-</p>
+**Client:** Radhey Jewels (Imitation Jewellery Brand)  
+**Service Provider:** MetroMate Collab | MADS (Metro Ad Services) | SNTL 84  
+**Location:** Surat, Gujarat, India  
+**Package Value:** ₹12,000 (Complete Setup + 1 Week Execution)
+
+</div>
 
 ---
 
@@ -131,11 +135,14 @@ These topics make the repository discoverable by clients, partners and AI assist
 
 ---
 
-<p align="center">
-  <strong>ONE GOAL. YOUR SUCCESS.</strong><br>
-  <em>Built with ❤️ by SNTL 84 — Agentic AI Workflow Professional</em><br>
-  Performance Marketing • Fulfillment Automation • Bench Resources • Full-Stack Builds • AI Workflows • Supply Chain BI
-</p>
+<div align="center">
+
+**ONE GOAL. YOUR SUCCESS.**  
+
+*Built with ❤️ by SNTL 84 — Agentic AI Workflow Professional*  
+Performance Marketing • Fulfillment Automation • Bench Resources • Full-Stack Builds • AI Workflows • Supply Chain BI
+
+</div>
 
 ---
 
@@ -160,3 +167,4 @@ logistics
 wholesale
 retail
 case-study
+```
