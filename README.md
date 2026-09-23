@@ -36,6 +36,7 @@
 - [Payment and QR Setup](#payment-and-qr-setup)
 - [Brand Launch Reel](#brand-launch-reel)
 - [Meta Ads Management — Facebook, Instagram and WhatsApp](#meta-ads-management--facebook-instagram-and-whatsapp)
+- [Meta Ads Configuration & Campaign Framework](#meta-ads-configuration--campaign-framework)
 - [E-Commerce Activation FAQ](#e-commerce-activation-faq)
   - [Facebook FAQ](#facebook-faq)
   - [WhatsApp FAQ](#whatsapp-faq)
@@ -183,6 +184,42 @@ We have successfully run and managed campaigns on all three portals for Radhey J
 
 ---
 
+## ⚙️ Meta Ads Configuration & Campaign Framework
+
+This project also covers the practical **Meta Ads configuration** layer behind campaign execution. The repository documents the business setup and operating context used for configuring paid campaigns on Meta.
+
+### Business & Asset Configuration
+- Meta Business Portfolio / Business Manager structure
+- Facebook Page ↔ Instagram account ↔ WhatsApp Business connection
+- Ads account readiness, access roles and asset assignment
+- Meta Ads Manager campaign workspace and account-level setup
+- Meta Commerce Manager catalog connection where applicable
+
+### Campaign Configuration
+- Campaign objective aligned to the business outcome: conversations, engagement, awareness or catalog activity
+- Ad Set configuration for audience, location, placements, budget and schedule
+- Ad configuration for primary text, headline, creative, CTA and destination
+- Facebook + Instagram placement selection with WhatsApp conversation destinations where applicable
+- Click-to-WhatsApp campaign setup for enquiry and order conversations
+
+### Audience & Targeting Configuration
+- Core audience definition for local jewellery buyers
+- Location targeting for Surat and relevant service areas
+- Interest / behaviour targeting where appropriate and available
+- Custom audience and retargeting concepts for engaged users, visitors and customer lists
+- Lookalike audience concepts for scaling qualified reach after sufficient first-party data is available
+
+### Measurement & Optimization
+- Campaign, ad set and ad performance review
+- KPI tracking across reach, impressions, CTR, CPC, conversations, leads and cost per result
+- Creative, audience, placement and budget optimization
+- WhatsApp conversation quality monitoring and lead-to-order feedback loop
+- Catalog and creative alignment for product-led campaigns
+
+> **Important:** Meta's Ads Manager interface, objectives, targeting options, placements and eligibility rules can change over time. This repository records the practical campaign configuration framework for this project; current platform settings and policies should be verified in Meta Ads Manager and Meta Business Help Center before deploying new campaigns.
+
+---
+
 ## ❓ E-Commerce Activation FAQ
 
 Common questions we get asked while activating e-commerce/selling features for clients like Radhey Jewels. Meta's commerce and advertising policies are updated frequently — treat this as a practical starting reference and always confirm current rules on Meta's official [Business Help Center](https://www.facebook.com/business/help) before onboarding a new client.
@@ -311,7 +348,7 @@ radhey-jewels-metromate-business-setup/
 
 These topics make the repository discoverable by clients, partners and AI assistants (ChatGPT, Gemini, Grok, DeepSeek, Claude, etc.):
 
-`whatsapp-business-setup` `instagram-business-setup` `facebook-business-setup` `digital-marketing-surat` `imitation-jewellery` `lead-generation` `broadcast-marketing` `payment-link-setup` `qr-code-business` `ecommerce-setup` `ecommerce-activation` `facebook-shop-setup` `instagram-shopping-setup` `whatsapp-catalog-setup` `click-to-whatsapp-ads` `meta-ads-management` `meta-commerce-manager` `offline-to-online` `performance-marketing` `metromate-collab` `mads` `sntl84` `desidevloper` `surat-business` `jewellery-brand-marketing` `whatsapp-catalog` `business-account-setup` `1-week-setup` `lowest-price-digital-setup`
+`whatsapp-business-setup` `instagram-business-setup` `facebook-business-setup` `digital-marketing-surat` `imitation-jewellery` `lead-generation` `broadcast-marketing` `payment-link-setup` `qr-code-business` `ecommerce-setup` `ecommerce-activation` `facebook-shop-setup` `instagram-shopping-setup` `whatsapp-catalog-setup` `click-to-whatsapp-ads` `meta-ads-management` `meta-ads-configuration` `meta-ads-manager` `meta-business-manager` `meta-business-suite` `meta-business-portfolio` `meta-ads-campaign-setup` `meta-ads-account-setup` `meta-ad-set-configuration` `meta-audience-targeting` `meta-retargeting` `meta-lookalike-audience` `meta-conversion-tracking` `click-to-whatsapp-campaigns` `facebook-instagram-ads` `instagram-ads-setup` `facebook-ads-setup` `whatsapp-ads` `meta-commerce-manager` `offline-to-online` `performance-marketing` `metromate-collab` `mads` `sntl84` `desidevloper` `surat-business` `jewellery-brand-marketing` `whatsapp-catalog` `business-account-setup` `1-week-setup` `lowest-price-digital-setup`
 
 ---
 
@@ -368,6 +405,15 @@ wholesale
 retail
 case-study
 meta-ads
+meta-ads-configuration
+meta-ads-manager
+meta-business-manager
+meta-business-suite
 click-to-whatsapp
+meta-audience-targeting
+meta-retargeting
+meta-campaign-setup
+instagram-ads
+facebook-ads
 commerce-manager
 ```
